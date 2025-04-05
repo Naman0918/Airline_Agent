@@ -1,0 +1,5 @@
+requests
+pandas
+numpy
+fastapi
+Flask==3.0.0

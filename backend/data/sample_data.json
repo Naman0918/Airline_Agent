@@ -1,0 +1,42 @@
+[
+    {
+        "flight_number": "AI101",
+        "airline": "Air India",
+        "departure": "Mumbai",
+        "arrival": "New York",
+        "duration": "18h 30m",
+        "price": 55000,
+        "layovers": ["Delhi", "London"],
+        "transit_time": "3h 15m"
+    },
+    {
+        "flight_number": "EK501",
+        "airline": "Emirates",
+        "departure": "Mumbai",
+        "arrival": "New York",
+        "duration": "15h 0m",
+        "price": 62000,
+        "layovers": ["Dubai"],
+        "transit_time": "1h 30m"
+    },
+    {
+        "flight_number": "BA204",
+        "airline": "British Airways",
+        "departure": "Delhi",
+        "arrival": "London",
+        "duration": "9h 30m",
+        "price": 45000,
+        "layovers": ["Dubai", "Japan"],
+        "transit_time": "4h 10m"
+    },
+    {
+        "flight_number": "BA204",
+        "airline": "British Airways",
+        "departure": "Delhi",
+        "arrival": "New York",
+        "duration": "9h 30m",
+        "price": 45000,
+        "layovers": ["Dubai"],
+        "transit_time": "0h 0m"
+    }
+]
